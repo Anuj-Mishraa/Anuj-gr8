@@ -1,7 +1,7 @@
-# Hi, I'm Shibin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
+# Hi, I'm Anuj MIshra<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
 
-![Badge](https://visitor-counter-badge.vercel.app/api/itsmeshibintmz/itsmeshibintmz) <a href="https://www.github.com/itsmeshibintmz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/itsmeshibintmz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+![Badge](https://visitor-counter-badge.vercel.app/api/Anuj-gr8/Anuj-gr8) <a href="https://github.com/Anuj-gr8" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Anuj-gr8?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=itsmeshibintmz&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/shibin*23#9991)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/itsme_shibintmz/)
@@ -13,25 +13,17 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
-  <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 <a href="https://www.instagram.com/itsme_shibintmz/">
   <img align="left" alt="Shibin's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
 </a>
 <a href="https://twitter.com/itsmeshibintmz">
   <img align="left" alt="Shibin Thomas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/cel9za9j8u6619mx74lmopapg">
-  <img align="left" alt="Shibin's Spotify" width="22px" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/spotify.svg" />
-</a>
 <a href="https://www.linkedin.com/in/shibin-thomas-343615206">
   <img align="left" alt="Shibin's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://stackoverflow.com/users/11188203/shibin-thomas" target="_blank" rel="noreferrer" ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="22px" align="left" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561199031932477/"> 
-  <img align="left" alt="Steam" width="22px" src="https://github.com/itsmeshibintmz/itsmeshibintmz/blob/main/icons/steam-icon-14883.png" />
+<a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
+  <img align="left" alt="Shibin's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
   <img align="left" alt="Shibin's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
@@ -46,7 +38,7 @@ https://www.quora.com/profile/Shibin-Thomas-70)
 <br><br/>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Tech%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI-ML%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
 Hi, I'm [Shibin Thomas](https://github.com/itsmeshibintmz), a passionate self-taught web developer and tech enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
