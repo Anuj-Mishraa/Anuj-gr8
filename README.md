@@ -70,21 +70,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
 
-📈 &nbsp; My Github Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuj-gr8&theme=darkhub&margin-w=15&margin-h=15&coloumn=3&row=1" alt="Anuj-gr8" /></a> </p>
 
-<p> <img src="https://github-readme-stats-Anuj-gr8.vercel.app/api?username=Anuj-gr8&show_icons=true&&line_height=25&width=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000" alt="Anuj-gr8" /> 
-
-<a href="http://www.github.com/Anuj-gr8"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuj-gr8&stroke=ffffff&background=000000&ring=0891b2&fire=FF0000&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=false" /></a>
-
-
-<!--
-  ---
--->
   
 ## Contribution Graph
   <br/>
-   <a href="https://github.com/itsmeshibintmz"><img alt="Shibin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anuj-gr8&custom_title=Anuj'%20Mishra's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/Anuj-gr8"><img alt="Anuj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anuj-gr8&custom_title=Anuj%20Mishra's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 
 <br/>
