@@ -21,7 +21,7 @@ https://anuj-mishra.medium.com/)
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;AI-ML%20Enthusiast;Cafephile;Always%20learning%20new%20things;Evolving&center=true&width=500&height=50"></a>
 </p>
 
-Hi, I'm [Anuj Mishra](https://github.com/A-gr8), a passionate self-taught web developer and AI enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Anuj Mishra](https://github.com/Anuj-gr8), a passionate self-taught web developer and AI enthusiast from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I'm 20 years old and graduated with a degree in Integrated M.Tech. with CSE specialization in AI&ML [VIT BHOPAL UNIVERSITY](https://www.vitbhopal.ac.in). 
 
