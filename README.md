@@ -79,8 +79,5 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 
 <br/>
 
-<details>
-  <summary>📃 &nbsp;Resume</summary>
-</details>
 
 
