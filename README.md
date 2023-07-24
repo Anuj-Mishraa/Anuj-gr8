@@ -64,20 +64,11 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
 </p>
-
-
 ### :muscle: &nbsp;Things I'm currently challenging myself with:
 - Code exercises everyday!
 - Trying to wake up earlier to make good use of the day
-
-
-  
 ## Contribution Graph
   <br/>
    <a href="https://github.com/Anuj-gr8"><img alt="Anuj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Anuj-gr8&custom_title=Anuj%20Mishra's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
 <br/>
-
-
-
